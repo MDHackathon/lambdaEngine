@@ -14,5 +14,11 @@
 .glide/
 .idea
 
-faas-netes
+variables.tf
+vars.tfvars
+*.tfstate
+*.tfstate.*
+.terraform
 
+
+venv
